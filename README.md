@@ -56,7 +56,8 @@ All data has been cleaned and combined (within Power BI) to allow for cross-year
 - Groups patients by age categories
 - Includes interactive filters for custom exploration
 - Compares pre- and post-COVID-19 waitlist impacts
-   ✨ Although not originally designed with COVID-19 in mind, the data spans both pre- and post-pandemic years, making it useful for analyzing the impact of COVID-19 on healthcare backlogs.
+
+**✨ Although not originally designed with COVID-19 in mind, the data spans both pre- and post-pandemic years, making it useful for analyzing the impact of COVID-19 on healthcare backlogs.**
 
 ---
 
