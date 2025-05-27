@@ -21,7 +21,7 @@ It involves:
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools & Technologies Used
 
 - Power BI - **Power BI Desktop** (data modeling, DAX, visualization)
            - **Power Query** (data cleaning and transformation)
