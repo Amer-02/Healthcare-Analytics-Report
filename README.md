@@ -42,6 +42,11 @@ All data has been cleaned and combined (within Power BI) to allow for cross-year
 
 ---
 
+## 📈 Sample Dashboard
+![Screenshot 2025-05-27 180105](https://github.com/user-attachments/assets/b6068ee3-53ed-4b4f-86a1-d69a248c9ff6)
+
+---
+
 ## 🔍 Insights Uncovered
 
 - Tracks waitlist trends from 2018 to 2021
