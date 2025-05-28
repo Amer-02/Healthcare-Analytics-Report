@@ -23,9 +23,12 @@ It involves:
 
 ## 🛠 Tools & Technologies Used
 
-- Power BI - **Power BI Desktop** (data modeling, DAX, visualization)
-           - **Power Query** (data cleaning and transformation)
-- Excel (For minor data review)
+| Tool            | Purpose                           |
+| --------------- | --------------------------------- |
+| Power BI        | Dashboard development             |
+| Power Query     | Data cleaning and transformation  |
+| DAX             | Calculated columns & custom logic |
+| Microsoft Excel | For minor data review             |
 
 ---
 
